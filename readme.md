@@ -71,3 +71,5 @@ DB_PASS=root
 php -S localhost:8000 -t public
 ```
 Now, visit http://localhost:8000/index.php?id=1 to test the API!
+
+My Blog link: https://nazimuddin.xyz/clean-architecture/
